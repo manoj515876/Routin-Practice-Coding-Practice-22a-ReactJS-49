@@ -1,0 +1,36 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading {
+  color: #12022f;
+  font-family: Roboto;
+  font-weight: 700;
+}
+
+.logo {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.logo-card {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.nav-card {
+  list-style: none;
+  display: flex;
+}
+
+.nav-item {
+  color: #12022f;
+  font-family: Roboto;
+  text-decoration: none;
+  font-weight: 700;
+  cursor: pointer;
+  margin-left: 40px;
+}

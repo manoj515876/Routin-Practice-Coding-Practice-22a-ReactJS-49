@@ -1,0 +1,19 @@
+.home-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 90px 0px 90px 0px;
+}
+
+.home-img {
+  width: 300px;
+  height: 300px;
+}
+
+.home-para {
+  font-family: Roboto;
+  font-weight: 700;
+  color: #551e53;
+  font-size: 36px;
+}
